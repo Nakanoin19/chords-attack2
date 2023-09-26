@@ -59,7 +59,7 @@ Non Diatonic Dominantの略
 解決先のキーに対してノンダイアトニックな5音をクラスター的に鳴らす和音
 
 > ### 例
-> Andd(Ddor) ... Aをルートとし、Ddor(D-Dorian)スケールのいずれかのコードに解決するndd
+> Abndd(Ddor) ... Abをルートとし、Ddor(D-Dorian)スケールのいずれかのコードに解決するndd
 
 ## qad
 Quartal Dominantの略
